@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey bro 👋
 
 <!--
 **DextIII/DextIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
